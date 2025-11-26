@@ -1,6 +1,8 @@
 
 # amazon-vpc-cni-k8s
 
+Successfully tested the plugion with the pod networking
+
 Networking plugin for pod networking in [Kubernetes](https://kubernetes.io/) using [Elastic Network Interfaces](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html) on AWS.
 
 [![Nightly Tests](https://github.com/aws/amazon-vpc-cni-k8s/workflows/Nightly%20Cron%20tests/badge.svg)](https://github.com/aws/amazon-vpc-cni-k8s/actions)
